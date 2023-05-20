@@ -3,7 +3,7 @@ version-info json files that are compatible with MineOnline
 
 ## How to install  
 **NOTE:** Make sure you have installed MineOnline.  
-You can download MineOnline from here: [https://github.com/craftycodie/MineOnline/](https://github.com/craftycodie/MineOnline/releases/)
+You can download MineOnline from here: [https://github.com/craftycodie/MineOnline/](https://github.com/craftycodie/MineOnline/)
 
 **Windows**  
 1. Download the json files you want to add to MineOnline.  
