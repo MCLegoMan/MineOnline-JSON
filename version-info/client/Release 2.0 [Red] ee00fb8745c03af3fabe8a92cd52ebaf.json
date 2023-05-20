@@ -7,5 +7,5 @@
   "baseVersion": "2point0_red",
   "ingameVersionString": "Minecraft 2.0",
   "resourcesVersion": "1.5.2",
-  "downloadURL": "https://archive.org/download/2point-0-red/2point0_red.jar"
+  "downloadURL": "https://raw.githubusercontent.com/MCLegoMan/MineOnline-JSON/master/versions/clients/Release%202.0%20%5BRed%5D/client.jar"
 }
