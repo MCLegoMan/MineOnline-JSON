@@ -1,0 +1,11 @@
+{
+  "name": "Release 2.0 [Red]",
+  "md5": "ee00fb8745c03af3fabe8a92cd52ebaf",
+  "sha256": "333a54b6250138d837e17cb049633efc0d55de6edfccf131d55def3f0fcb10d3",
+  "type": "client",
+  "legacy": true,
+  "baseVersion": "2point0_red",
+  "ingameVersionString": "Minecraft 2.0",
+  "resourcesVersion": "1.5.2",
+  "downloadURL": "https://archive.org/download/2point-0-red/2point0_red.jar"
+}

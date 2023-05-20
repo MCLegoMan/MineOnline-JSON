@@ -1,0 +1,11 @@
+{
+  "name": "Release 2.0 [Blue]",
+  "md5": "b16c06933f2aa43594ea7a150a126a07",
+  "sha256": "1a8eca28efa9b58f5546fd66a5b3bbbbf61f7f1ecb0730b29706217d8aaf0bd9",
+  "type": "client",
+  "legacy": true,
+  "baseVersion": "2point0_blue",
+  "ingameVersionString": "Minecraft 2.0",
+  "resourcesVersion": "1.5.2",
+  "downloadURL": "https://archive.org/download/2point-0-blue/2point0_blue.jar"
+}

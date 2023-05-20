@@ -1,0 +1,11 @@
+{
+  "name": "Release 2.0 [Purple]",
+  "md5": "6023b7c3626d987d9c85c8e2617d3705",
+  "sha256": "1184ba5e91d2742b89108428778f8590a61704339cf07b4ed84c84cf67d674e3",
+  "type": "client",
+  "legacy": true,
+  "baseVersion": "2point0_purple",
+  "ingameVersionString": "Minecraft 2.0",
+  "resourcesVersion": "1.5.2",
+  "downloadURL": "https://archive.org/download/2point-0-purple/2point0_purple.jar"
+}
