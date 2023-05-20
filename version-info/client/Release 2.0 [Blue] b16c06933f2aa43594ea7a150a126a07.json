@@ -7,5 +7,5 @@
   "baseVersion": "2point0_blue",
   "ingameVersionString": "Minecraft 2.0",
   "resourcesVersion": "1.5.2",
-  "downloadURL": "https://archive.org/download/2point-0-blue/2point0_blue.jar"
+  "downloadURL": "https://raw.githubusercontent.com/MCLegoMan/MineOnline-JSON/master/versions/clients/Release%202.0%20%5BBlue%5D/client.jar"
 }
